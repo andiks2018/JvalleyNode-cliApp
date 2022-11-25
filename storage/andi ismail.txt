@@ -1,0 +1,10 @@
+
+    --------------------------------------
+    Nama lengkap            :   andi ismail
+    Tempat tanggal lahir    :   andoolo
+    NO KTP                  :   123
+    Telp                    :   456
+    Alamat                  :   Depok
+    Status                  :   sudah
+    --------------------------------------
+    

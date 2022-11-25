@@ -1,0 +1,10 @@
+
+    --------------------------------------
+    Nama lengkap            :   anid
+    Tempat tanggal lahir    :   dfa
+    NO KTP                  :   1212
+    Telp                    :   1313
+    Alamat                  :   depok
+    Status                  :   sudah
+    --------------------------------------
+    

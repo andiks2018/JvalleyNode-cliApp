@@ -1,0 +1,15 @@
+{
+  "name": "cli_app",
+  "version": "1.0.0",
+  "description": "membuat sebuah aplikasi cli sederhanan ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andismail",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}

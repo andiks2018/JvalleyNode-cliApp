@@ -1,0 +1,10 @@
+
+    --------------------------------------
+    Nama lengkap            :   fgsdfg
+    Tempat tanggal lahir    :   fg
+    NO KTP                  :   sdfg
+    Telp                    :   sfg
+    Alamat                  :   sf
+    Status                  :   sudah
+    --------------------------------------
+    
